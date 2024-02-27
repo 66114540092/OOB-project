@@ -1,4 +1,4 @@
-# OOB-project
+# OOP-project
 
 # - application title
 - author: 
