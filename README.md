@@ -1,6 +1,6 @@
 # OOP-project
 
-# - application title
+# application title
 
 ## author: 
 
